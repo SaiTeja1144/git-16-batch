@@ -1,0 +1,19 @@
+class hello
+ {
+  public static void main(String args[])
+  {
+   int bucket1=10;
+   int bucket2=20;
+   int bucket3;
+   bucket3=bucket1+bucket2;
+   bucket1=bucket1*bucket2;
+   bucket2=bucket2+bucket1;
+   System.out.println("BEFORE SWAP");
+   System.out.println(bucket1);
+   System.out.println(bucket2);
+   System.out.println("AFTER SWAP")
+   System.out.println(bucket1);
+   System.out.println(bucket2);
+   System.out.println(bucket3);
+   }
+  }
