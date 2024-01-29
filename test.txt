@@ -1,1 +1,3 @@
-this the diff file example
+this the diff file example 
+
+step 2 --> to check the diff commit 
